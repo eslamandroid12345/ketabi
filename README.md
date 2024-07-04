@@ -1,66 +1,32 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Some screen from web app
 
-## About Laravel
+![calendar](https://github.com/eslamandroid12345/ketabi/assets/96002614/5adf6612-8e0a-4201-826e-a0b91eaccc78)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![bag](https://github.com/eslamandroid12345/ketabi/assets/96002614/5a60f94a-702f-4e4e-94a0-19a42f3c2ed4)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![teacher_register](https://github.com/eslamandroid12345/ketabi/assets/96002614/2ca9cef6-6741-4923-ad78-7ad90c43b39e)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![subjects](https://github.com/eslamandroid12345/ketabi/assets/96002614/d880922a-bca1-4829-8926-8e80683f936c)
 
-## Learning Laravel
+![students](https://github.com/eslamandroid12345/ketabi/assets/96002614/5e8f7b79-d7bc-4d34-a88c-8568a09c08ca)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+![sections](https://github.com/eslamandroid12345/ketabi/assets/96002614/a3c9b658-902a-41aa-b09b-de46dadd4434)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![search_leason](https://github.com/eslamandroid12345/ketabi/assets/96002614/8e7fc1ed-ce51-4b14-8acc-da3df8944791)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![register](https://github.com/eslamandroid12345/ketabi/assets/96002614/0126ca2e-4739-4e85-9085-30c8f596963d)
 
-## Laravel Sponsors
+![notifications](https://github.com/eslamandroid12345/ketabi/assets/96002614/33e6e8c3-5162-4731-93be-31b8f56ce9a0)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+![login_dashboard](https://github.com/eslamandroid12345/ketabi/assets/96002614/bf50e5a4-1dee-435b-b1c7-a1ce7c33e823)
 
-### Premium Partners
+![login](https://github.com/eslamandroid12345/ketabi/assets/96002614/ae2c84da-0659-4d94-8a12-c9fe3783b4bd)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+![lessons](https://github.com/eslamandroid12345/ketabi/assets/96002614/4304e050-4527-447a-ac20-1f8ec99b0fbf)
 
-## Contributing
+![home_dashboard](https://github.com/eslamandroid12345/ketabi/assets/96002614/a4a9820d-f49b-4485-9f35-4150be03c7be)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Home](https://github.com/eslamandroid12345/ketabi/assets/96002614/051861e4-66ce-4bec-a536-6e216f7bd547)
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![cart](https://github.com/eslamandroid12345/ketabi/assets/96002614/e81a8277-f811-469b-9e78-34821c29d530)
